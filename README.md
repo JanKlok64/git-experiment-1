@@ -3,5 +3,9 @@ jaja
 
 - new repo
 - git clone
-- change on github
+- remote change on github
 - git pull
+- local change
+- git add
+- git commit
+- git push
